@@ -119,7 +119,7 @@ Good starter tasks include:
 
 
 
-Das ist nur ein Tset und kein Arbeit
+Das ist nur ein Test und keine wirkliche Arbeit
 
 Thanks for helping out!
 
